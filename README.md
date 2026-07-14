@@ -32,14 +32,4 @@ Our setups are built to heavily optimize modern web applications, legacy builds,
 </p>
 
 ---
-
-### 📊 Network & Activity Telemetry
-These monitors dynamically reflect our system's live contribution metrics and stack distribution directly from GitHub:
-
-<p align="left">
-  <img src="https://vercel.app" alt="Live Repository Stats" width="400" />
-  <img src="https://vercel.app" alt="Core Technologies Breakdown" width="320" />
-</p>
-
----
 <p align="center">Empowering the local developer ecosystem with love at <a href="https://xierahost.my.id">Xiera Platform</a></p>
