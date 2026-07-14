@@ -24,11 +24,11 @@ Our deployment environments are fine-tuned for production-grade efficiency:
 Our setups are built to heavily optimize modern web applications, legacy builds, and content frameworks:
 
 <p align="left">
-  <a href="https://php.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/960px-PHP-logo.svg.png" alt="PHP Optimization" width="42" height="42"/> </a>
+  <a href="https://php.net" target="_blank" rel="noreferrer"> <img src="https://techicons.dev/icons/php" width="42" height="42"/> </a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/professional-tools/laravel-1-k0sk62jzipht2jto2zjcnq.png/laravel-1-ycj50isxz29ebxwuaegb4.png?_a=DATAiZiuZAA0" alt="Laravel Framework Support" width="42" height="42"/> </a>
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="WordPress Core Hosting" width="42" height="42"/> </a>
-  <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="Database Architecture" width="42" height="42"/> </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="Git Version Control Deployment" width="42" height="42"/> </a>
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="WordPress Core Hosting" width="42" height="42"/> </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFtmX-TTkckNmKNz5Q6tcYnhzlDrCpba_BOCndXgUJWg&s=10" alt="Database Architecture" width="42" height="42"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Version Control Deployment" width="42" height="42"/> </a>
 </p>
 
 ---
