@@ -1,19 +1,10 @@
 # ⚡ Hello there! Welcome to Xiera Platform
 
 <p align="left">
-  <img src="https://komarev.com" alt="Profile Views Tracker" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dnMWZpaTV2ZnRjZXYxNDBxZXo0NWFpNmluOGs0cTlpcDFjZnpmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MwtHY03ldRPgc/giphy.gif" alt="Profiler" />
 </p>
 
 We are a local web hosting ecosystem dedicated to breaking down barriers for creators. Our mission is simple: provide robust, reliable, and accessible server infrastructure so students, developers, and builders can ship their applications online without financial friction.
-
----
-
-### 🎬 Platform Live Preview
-Check out how our interface and deployment pipeline work in action:
-
-<p align="left">
-  <img src="https://giphy.com" alt="Xiera Environment Loop" width="100%" max-width="750px" style="border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-</p>
 
 ---
 
@@ -33,8 +24,8 @@ Our deployment environments are fine-tuned for production-grade efficiency:
 Our setups are built to heavily optimize modern web applications, legacy builds, and content frameworks:
 
 <p align="left">
-  <a href="https://php.net" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="PHP Optimization" width="42" height="42"/> </a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="Laravel Framework Support" width="42" height="42"/> </a>
+  <a href="https://php.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/960px-PHP-logo.svg.png" alt="PHP Optimization" width="42" height="42"/> </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/professional-tools/laravel-1-k0sk62jzipht2jto2zjcnq.png/laravel-1-ycj50isxz29ebxwuaegb4.png?_a=DATAiZiuZAA0" alt="Laravel Framework Support" width="42" height="42"/> </a>
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="WordPress Core Hosting" width="42" height="42"/> </a>
   <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="Database Architecture" width="42" height="42"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="Git Version Control Deployment" width="42" height="42"/> </a>
